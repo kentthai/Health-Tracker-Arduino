@@ -1,6 +1,7 @@
 # Health-Tracker-Arduino
 Simple Arduino project that works with a Health Tracker Android Application.
 
+Detailed Documentation: https://docs.google.com/document/d/1RV7YfVUVQ8HVrZBNN74Xpj3-VAB-WM58SvSpwmmDjAA/edit?usp=sharing
 
 This is a simple health tracker Arduino project that counts the number of steps that a user has taken.
 
